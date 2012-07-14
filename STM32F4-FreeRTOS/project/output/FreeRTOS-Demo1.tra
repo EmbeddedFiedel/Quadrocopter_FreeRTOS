@@ -55,7 +55,7 @@
 ### ADS-LD Output File: '.\output\FreeRTOS-Demo1.axf'
 ### ADS-LD Command File: '.\output\FreeRTOS-Demo1.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\output\FreeRTOS-Demo1.lnp', Handle=0x00000378
+### Creating CmdFile '.\output\FreeRTOS-Demo1.lnp', Handle=0x00000500
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\output\FreeRTOS-Demo1.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

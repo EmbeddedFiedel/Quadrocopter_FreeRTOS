@@ -14,7 +14,7 @@
 #define AVG_WEIGHT	5
 int8_t accel[6];
 int8_t s8buff[6];
-uint8_t fMems_Debug = false;
+uint8_t fMems_Debug = true;
 
 enum accelAxis { xAxis, na1, yAxis, na2, zAxis, na3 };
 

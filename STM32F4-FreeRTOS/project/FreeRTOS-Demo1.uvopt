@@ -189,10 +189,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>39</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>1</CurrentLine>
+      <TopLine>104</TopLine>
+      <CurrentLine>104</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\debug.c</PathWithFileName>
       <FilenameWithoutPath>debug.c</FilenameWithoutPath>
@@ -203,10 +203,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>25</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>64</TopLine>
-      <CurrentLine>64</CurrentLine>
+      <TopLine>106</TopLine>
+      <CurrentLine>114</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -217,10 +217,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>25</ColumnNumber>
+      <ColumnNumber>24</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>56</TopLine>
-      <CurrentLine>56</CurrentLine>
+      <TopLine>125</TopLine>
+      <CurrentLine>133</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\mems.c</PathWithFileName>
       <FilenameWithoutPath>mems.c</FilenameWithoutPath>
@@ -238,10 +238,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>26</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>218</TopLine>
-      <CurrentLine>218</CurrentLine>
+      <TopLine>44</TopLine>
+      <CurrentLine>59</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\FreeRTOS\croutine.c</PathWithFileName>
       <FilenameWithoutPath>croutine.c</FilenameWithoutPath>
@@ -282,8 +282,8 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>2262</TopLine>
-      <CurrentLine>2262</CurrentLine>
+      <TopLine>1913</TopLine>
+      <CurrentLine>1918</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\FreeRTOS\tasks.c</PathWithFileName>
       <FilenameWithoutPath>tasks.c</FilenameWithoutPath>
@@ -308,10 +308,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>25</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>109</TopLine>
-      <CurrentLine>109</CurrentLine>
+      <TopLine>54</TopLine>
+      <CurrentLine>54</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\FreeRTOS\portable\keil\ARM_CM4F\port.c</PathWithFileName>
       <FilenameWithoutPath>port.c</FilenameWithoutPath>
@@ -775,7 +775,7 @@
 
   <Group>
     <GroupName>STM32F4</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <File>
@@ -784,10 +784,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>5</ColumnNumber>
+      <ColumnNumber>15</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>285</TopLine>
-      <CurrentLine>285</CurrentLine>
+      <TopLine>447</TopLine>
+      <CurrentLine>447</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\stm32f4_discovery_lis302dl.c</PathWithFileName>
       <FilenameWithoutPath>stm32f4_discovery_lis302dl.c</FilenameWithoutPath>
@@ -812,10 +812,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>42</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>0</TopLine>
-      <CurrentLine>0</CurrentLine>
+      <TopLine>261</TopLine>
+      <CurrentLine>275</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\utils.c</PathWithFileName>
       <FilenameWithoutPath>utils.c</FilenameWithoutPath>
@@ -869,13 +869,49 @@
     <ActiveMDIGroup>0</ActiveMDIGroup>
     <MDIGroup>
       <Size>100</Size>
-      <ActiveTab>10</ActiveTab>
+      <ActiveTab>0</ActiveTab>
       <Documents>
         <Doc>
+          <Name>..\src\FreeRTOS\tasks.c</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>1913</TopLine>
+          <CurrentLine>1918</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\utils.c</Name>
+          <ColumnNumber>42</ColumnNumber>
+          <TopLine>261</TopLine>
+          <CurrentLine>275</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\FreeRTOS\croutine.c</Name>
+          <ColumnNumber>26</ColumnNumber>
+          <TopLine>44</TopLine>
+          <CurrentLine>59</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\debug.c</Name>
+          <ColumnNumber>39</ColumnNumber>
+          <TopLine>104</TopLine>
+          <CurrentLine>104</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\stm32f4_discovery_lis302dl.c</Name>
+          <ColumnNumber>15</ColumnNumber>
+          <TopLine>447</TopLine>
+          <CurrentLine>447</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\mems.c</Name>
+          <ColumnNumber>24</ColumnNumber>
+          <TopLine>125</TopLine>
+          <CurrentLine>133</CurrentLine>
+        </Doc>
+        <Doc>
           <Name>..\src\main.c</Name>
-          <ColumnNumber>25</ColumnNumber>
-          <TopLine>64</TopLine>
-          <CurrentLine>64</CurrentLine>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>106</TopLine>
+          <CurrentLine>114</CurrentLine>
         </Doc>
         <Doc>
           <Name>.\startup_stm32f4xx.s</Name>
@@ -884,46 +920,10 @@
           <CurrentLine>173</CurrentLine>
         </Doc>
         <Doc>
-          <Name>..\src\FreeRTOS\tasks.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>2262</TopLine>
-          <CurrentLine>2262</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\mems.c</Name>
-          <ColumnNumber>25</ColumnNumber>
-          <TopLine>56</TopLine>
-          <CurrentLine>56</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\debug.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>1</TopLine>
-          <CurrentLine>1</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\FreeRTOS\portable\keil\ARM_CM4F\port.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>109</TopLine>
-          <CurrentLine>109</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\FreeRTOS\timers.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>271</TopLine>
-          <CurrentLine>271</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\FreeRTOS\portable\MemMang\heap_1.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>86</TopLine>
-          <CurrentLine>86</CurrentLine>
-        </Doc>
-        <Doc>
-          <Name>..\src\FreeRTOS\croutine.c</Name>
-          <ColumnNumber>0</ColumnNumber>
-          <TopLine>218</TopLine>
-          <CurrentLine>218</CurrentLine>
+          <Name>..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c</Name>
+          <ColumnNumber>12</ColumnNumber>
+          <TopLine>20</TopLine>
+          <CurrentLine>20</CurrentLine>
         </Doc>
         <Doc>
           <Name>..\src\FreeRTOS\list.c</Name>
@@ -932,10 +932,22 @@
           <CurrentLine>21</CurrentLine>
         </Doc>
         <Doc>
-          <Name>..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c</Name>
-          <ColumnNumber>12</ColumnNumber>
-          <TopLine>20</TopLine>
-          <CurrentLine>20</CurrentLine>
+          <Name>..\src\FreeRTOS\portable\MemMang\heap_1.c</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>86</TopLine>
+          <CurrentLine>86</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\FreeRTOS\timers.c</Name>
+          <ColumnNumber>0</ColumnNumber>
+          <TopLine>271</TopLine>
+          <CurrentLine>271</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>..\src\FreeRTOS\portable\keil\ARM_CM4F\port.c</Name>
+          <ColumnNumber>25</ColumnNumber>
+          <TopLine>54</TopLine>
+          <CurrentLine>54</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
